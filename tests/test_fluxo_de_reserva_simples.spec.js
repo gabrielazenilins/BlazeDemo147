@@ -1,4 +1,5 @@
-//Importar bibliotecas
+//Importar bibliotecas e frameworks
+
     import {test, expect} from '@playwright/test';
 
 // Funções ou Métodos
